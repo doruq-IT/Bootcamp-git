@@ -1,0 +1,16 @@
+* Global Pizzaya hoşgeldiniz!
+
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik Pizza - $10
+2: Margarita Pizza - $12
+3: Türk Pizza - $15
+4: Sade Pizza - $8
+
+* Ve Seçeceğiniz Sos:
+11: Zeytin - $1
+12: Mantarlar - $1
+13: Keçi Peyniri - $2
+14: Et - $3
+15: Soğan - $1
+16: Mısır - $1
+Teşekkür ederiz!
