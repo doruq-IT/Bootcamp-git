@@ -3,7 +3,7 @@
 * Lütfen Bir Pizza Tabanı Seçiniz:
 1: Klasik Pizza - $10
 2: Margarita Pizza - $12
-3: Türk Pizza - $15
+3: Turk Pizza - $15
 4: Sade Pizza - $8
 
 * Ve Seçeceğiniz Sos:
